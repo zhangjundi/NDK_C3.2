@@ -4,3 +4,4 @@ typedef struct Node {
 	Node *pre;
 	Node *next;
 }Node; 
+

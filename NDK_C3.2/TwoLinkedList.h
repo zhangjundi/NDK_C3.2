@@ -15,5 +15,6 @@ Node * selectNode(Node * node,int index);
 //释放节点内存
 void freeNode(Node *node);
 //排序
-void sortNode(Node *node);
+Node * sortNode(Node *node);
+void changeNode( Node *positive);
 
